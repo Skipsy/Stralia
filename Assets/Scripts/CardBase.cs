@@ -13,7 +13,8 @@ public class CardBase : ScriptableObject
     
     //function
     public int damage;
-    
+    public int cost;
+
     
   
 }
