@@ -6,7 +6,7 @@ using System.Collections.Generic;
 [CreateAssetMenu(fileName = "New Enemy", menuName = "Enemies")]
 public class Enemies : ScriptableObject
 {
-
+    public string Name;
     public string CurrentStatus;
     //ie poisoned or bleeding etc
     public string NextMove;
