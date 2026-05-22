@@ -12,7 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 367b850a6d4197b41b44e1447501795a, type: 3}
   m_Name: Pavlova
   m_EditorClassIdentifier: 
-  name: 
+  name: Pavlova
+  effect: 
   description: 
   art: {fileID: 0}
   artifactamountcount: 0

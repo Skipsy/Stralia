@@ -12,7 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 367b850a6d4197b41b44e1447501795a, type: 3}
   m_Name: Cheese Friday
   m_EditorClassIdentifier: 
-  name: 
-  description: 
+  name: Cheese Friday
+  effect: 
+  description: Can actually be eaten any day
   art: {fileID: 0}
   artifactamountcount: 0

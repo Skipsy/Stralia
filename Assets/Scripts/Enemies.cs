@@ -16,7 +16,8 @@ public class Enemies : ScriptableObject
 
     //function
     public int damage;
-    public int Health;
+    public int MaxHealth;
+    public int CurrentHealth;
     public int enemyamount;
 
 

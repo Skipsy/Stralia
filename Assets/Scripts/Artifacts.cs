@@ -4,6 +4,7 @@ using UnityEngine;
 public class Artifacts : ScriptableObject
 {
     public string name;
+    public string effect;
     public string description;
 
     public Sprite art;
