@@ -3,8 +3,8 @@ using UnityEngine.UI;
 using System.Collections;
 using System.Collections.Generic;
 
-[CreateAssetMenu(fileName = "New Enemy", menuName = "Enemies")]
-public class Enemies : ScriptableObject
+[CreateAssetMenu(fileName = "New Enemy", menuName = "EnemieData")]
+public class EnemieData : ScriptableObject
 {
     public string Name;
     public string CurrentStatus;
@@ -13,6 +13,7 @@ public class Enemies : ScriptableObject
     // attack or self buff
 
     public string damageText;
+    public GameObject enemyPrefab;
 
     //function
     public int damage;
